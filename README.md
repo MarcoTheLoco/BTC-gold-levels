@@ -1,6 +1,9 @@
 # BTC-gold-levels
 Python script for analyzing Bitcoin's historical support levels: comparing the stability of Gold-pegged levels versus traditional USD price levels.
 
+**Although the script generates images at selected levels, this indicator on TradingView allows you to "touch" the chart more closely and identify correlations.** https://ru.tradingview.com/script/jFB0u0CT-structural-gold-levels/
+
+
 **Сomparing the stability of Bitcoin support levels denominated in Gold (grams) versus US Dollars.**
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat&logo=python)](https://www.python.org/)
