@@ -26,7 +26,7 @@ The script evaluates "Level Quality" based on two metrics:
 2.  **Crossovers:** How often the price breaks the level (Instability).
 
 It assigns a **Quality Score** for each level:
-$$ Score = Days_{Respect} - (Crossovers \times 5) $$
+Score = Days_{Respect} - (Crossovers \times 5)
 
 Finally, it runs a statistical test to reject the Null Hypothesis ($H_0$) that both methods are equal.
 
